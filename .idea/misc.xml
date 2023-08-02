@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2. DOKUMEN/1. SKRIPSI/3. Android Studio/backup/backNEW/APK1118/APK/app/src/main/res/layout/activity_a_splash.xml" value="0.209375" />
+        <entry key="..\:/2. DOKUMEN/1. SKRIPSI/3. Android Studio/backup/backNEW/APK1118/APK/app/src/main/res/layout/activity_b_started.xml" value="0.209375" />
+        <entry key="..\:/2. DOKUMEN/1. SKRIPSI/3. Android Studio/backup/backNEW/APK1118/APK/app/src/main/res/layout/activity_c_login.xml" value="0.209375" />
+        <entry key="..\:/2. DOKUMEN/1. SKRIPSI/3. Android Studio/backup/backNEW/APK1118/APK/app/src/main/res/layout/activity_d_menu_utama.xml" value="0.25" />
+        <entry key="..\:/2. DOKUMEN/1. SKRIPSI/3. Android Studio/backup/backNEW/APK1118/APK/app/src/main/res/layout/activity_e__form_cuti.xml" value="0.22" />
+        <entry key="..\:/2. DOKUMEN/1. SKRIPSI/3. Android Studio/backup/backNEW/APK1118/APK/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Project/PTA/app/src/main/res/drawable-v24/bg_button_blue.xml" value="0.25555555555555554" />
+        <entry key="..\:/Project/PTA/app/src/main/res/drawable/ic_baseline_print_24.xml" value="0.2574074074074074" />
+        <entry key="..\:/Project/PTA/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.2574074074074074" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_a_splash.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_b_started.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_c_login.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_calender_picker.xml" value="0.264" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_d_menu_utama.xml" value="0.25" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_detail_users.xml" value="0.20606884057971014" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_e__form_cuti.xml" value="0.2588297311544544" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_e_form_cuti.xml" value="0.21693840579710144" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_f_profil.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_g_pengajuan_terkirim.xml" value="0.245136186770428" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_h_panduan.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_i_list_riwayat_cuti.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_j_validasi.xml" value="0.34896943852167733" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_k_list_valid.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_l_agenda.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_main.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_signature.xml" value="0.19021739130434784" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_users_create.xml" value="0.2" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_users_list.xml" value="0.152" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/activity_validasi_by_atasan_view.xml" value="0.1956521739130435" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/desain_list_cuti.xml" value="0.176" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/desain_list_users.xml" value="0.24048913043478262" />
+        <entry key="..\:/Project/PTA/app/src/main/res/layout/desain_panduan_detail.xml" value="0.21829710144927536" />
+        <entry key="..\:/Project/PTA/app/src/main/res/menu/menu_pdf_views.xml" value="0.2557291666666667" />
+        <entry key="..\:/Project/PTA/app/src/main/res/menu/menu_save.xml" value="0.13125" />
+        <entry key="..\:/Project/PTA/app/src/main/res/menu/menu_users_toolbar.xml" value="0.2557291666666667" />
+        <entry key="..\:/Project/PTA/app/src/main/res/xml/file_paths.xml" value="0.13125" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="6" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
